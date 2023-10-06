@@ -1,0 +1,13 @@
+/* Mayor especificidad */
+#encabezado { /* Solo 1 ID por documento HTML */
+  text-transform: uppercase;
+  color: red;
+}
+
+.texto {
+  color: blue;
+}
+
+#encabezado.texto {
+  color: tomato;
+}

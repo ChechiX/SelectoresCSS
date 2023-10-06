@@ -1,0 +1,7 @@
+.header .descripcion { /* Máximo 3 niveles en los selectores */
+  color: red;
+}
+
+.descripcion {
+  color: blue;
+}

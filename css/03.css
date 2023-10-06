@@ -1,0 +1,17 @@
+.texto {
+  background-color: red;
+}
+.azul {
+  color: blue;
+}
+
+.mayuscula {
+  text-transform: uppercase;
+}
+.texto.mayuscula {
+  font-size: 10rem;
+}
+
+.texto.azul {
+  text-align: right;
+}

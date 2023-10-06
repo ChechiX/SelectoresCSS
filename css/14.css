@@ -1,0 +1,8 @@
+/* Uno */
+p:not(.texto) {
+  color: red;
+}
+/* Varios */
+p:not(.texto):not(.oferta) {
+  color: red;
+}
